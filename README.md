@@ -1,4 +1,4 @@
-# STAT333 Project
+# Regression Analysis of the Effect of the Percentage of Long Time Commuters on the Adult Obesity Rate
 Project for STAT 333: Applied Regression Analysis (Spring 2018) at University of Wisconsin-Madison
 
 ## Background

@@ -4,6 +4,12 @@ STAT 333 Applied Regression Analysis (Spring 2018) Project
 ## Background
 As the rate of obesity significantly increases over the time, obesity has now become one of the leading public issues in the United States. Not only would obesity and its associated health problems undermine the lengths and quality of lives of individuals, but they also increase the healthcare costs nationwide. Considering these severe consequences of obesity, our group was interested in identifying a potential factor behind the high obesity rate in the United States.
 
+<img width="480" alt="commuting" src="https://github.com/user-attachments/assets/f4e3ecea-7da3-44ed-a750-82aeff813061">
+
+<img width="416" alt="obesity" src="https://github.com/user-attachments/assets/edea7e3d-4800-488c-a2cd-46c60c0d3814">
+
+
+
 ## Statistical Technique
 + Multiple linear regression
 + Random forests
